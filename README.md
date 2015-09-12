@@ -1,9 +1,6 @@
 # arc0
 
-A mirror of arc0.tar, the first public release of Arc.
-
-The original arc0.tar can be downloaded [here](https://github.com/laarc/arc0/releases/download/1/arc0.tar).
-
+A mirror of [arc0.tar](https://github.com/laarc/arc0/releases/download/1/arc0.tar), the first public release of Arc.
 
 ```
 $ wget https://github.com/laarc/arc0/releases/download/1/arc0.tar
