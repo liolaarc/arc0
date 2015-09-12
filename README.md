@@ -1,6 +1,5 @@
-# laarc/arc0
 
-A mirror of [arc0.tar](https://github.com/laarc/arc0/releases/download/1/arc0.tar), the first release of Arc.
+Mirror of [arc0.tar](https://github.com/laarc/arc0/releases/download/1/arc0.tar), the first release of Arc.
 
 See also:
 
