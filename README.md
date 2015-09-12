@@ -2,6 +2,8 @@
 
 A mirror of [arc0.tar](https://github.com/laarc/arc0/releases/download/1/arc0.tar), the first public release of Arc.
 
+arc0 vs arc3.1: [html](https://rawgit.com/laarc/notebook/master/arc0-3.1.html) | [txt](https://rawgit.com/laarc/notebook/master/arc0-3.1.txt)
+
 ```
 $ wget https://github.com/laarc/arc0/releases/download/1/arc0.tar
 
